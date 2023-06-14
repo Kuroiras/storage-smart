@@ -1,3 +1,3 @@
 # storage-smart
 
-Initial commit test. 2
+Initial commit test.
